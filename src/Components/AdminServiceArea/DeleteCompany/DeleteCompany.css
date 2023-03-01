@@ -1,0 +1,29 @@
+.DeleteCompany {
+    height: 100%;
+    font-weight: 600;
+    font-size: large;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.DeleteCompany .wrapper {
+    margin-top: 50px;
+    background-color: var(--color-white-2);
+    padding: 10px;
+
+}
+.DeleteCompany button {
+    width: 150px;
+    height: 30px;
+
+}
+.DeleteCompany .cancel {
+    background-color: #adb2b7;
+}
+.DeleteCompany .yes {
+    background-color: #e84343;
+}
+.DeleteCompany .gap {
+    gap: 10px;
+}

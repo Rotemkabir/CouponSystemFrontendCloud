@@ -1,0 +1,9 @@
+.Home {
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    color: black;
+}
+

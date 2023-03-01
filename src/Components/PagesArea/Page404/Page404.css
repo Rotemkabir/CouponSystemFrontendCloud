@@ -1,0 +1,10 @@
+.Page404 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 130px;
+}
+.Page404 span {
+	font-size: var(--emoji-size-large);
+}

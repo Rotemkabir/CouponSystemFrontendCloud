@@ -1,0 +1,34 @@
+.DeleteCoupon {
+    height: 100%;
+    font-weight: 600;
+    font-size: large;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.DeleteCoupon .wrapper {
+    margin-top: 50px;
+    background-color: var(--color-white-2);
+    padding: 10px;
+
+}
+
+.DeleteCoupon button {
+    width: 150px;
+    height: 30px;
+
+}
+
+.DeleteCoupon .cancel {
+    background-color: #adb2b7;
+}
+
+.DeleteCoupon .yes {
+    background-color: #e84343;
+}
+
+.DeleteCoupon .gap {
+    gap: 10px;
+}

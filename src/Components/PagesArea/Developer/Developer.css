@@ -1,0 +1,9 @@
+.Developer {
+    padding: 25px;
+    color: black;
+}
+
+.first::first-letter{
+    font-size: 33px;
+    color: #f8e054;
+}
